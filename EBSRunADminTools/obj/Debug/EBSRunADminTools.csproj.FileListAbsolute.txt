@@ -1,0 +1,10 @@
+C:\Users\EBS\source\repos\EBSRunADminTools\EBSRunADminTools\bin\Debug\EBSRunADminTools.exe.config
+C:\Users\EBS\source\repos\EBSRunADminTools\EBSRunADminTools\bin\Debug\EBSRunADminTools.exe
+C:\Users\EBS\source\repos\EBSRunADminTools\EBSRunADminTools\bin\Debug\EBSRunADminTools.pdb
+C:\Users\EBS\source\repos\EBSRunADminTools\EBSRunADminTools\obj\Debug\EBSRunADminTools.csproj.AssemblyReference.cache
+C:\Users\EBS\source\repos\EBSRunADminTools\EBSRunADminTools\obj\Debug\EBSRunADminTools.Form1.resources
+C:\Users\EBS\source\repos\EBSRunADminTools\EBSRunADminTools\obj\Debug\EBSRunADminTools.Properties.Resources.resources
+C:\Users\EBS\source\repos\EBSRunADminTools\EBSRunADminTools\obj\Debug\EBSRunADminTools.csproj.GenerateResource.cache
+C:\Users\EBS\source\repos\EBSRunADminTools\EBSRunADminTools\obj\Debug\EBSRunADminTools.csproj.CoreCompileInputs.cache
+C:\Users\EBS\source\repos\EBSRunADminTools\EBSRunADminTools\obj\Debug\EBSRunADminTools.exe
+C:\Users\EBS\source\repos\EBSRunADminTools\EBSRunADminTools\obj\Debug\EBSRunADminTools.pdb
